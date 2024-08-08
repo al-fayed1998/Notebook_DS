@@ -5,7 +5,7 @@ This project involves creating and documenting a Jupyter notebook titled `DataSc
 
 
 
-## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/al-fayed1998/Notebook_DS.git
