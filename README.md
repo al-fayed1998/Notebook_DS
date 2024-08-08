@@ -3,12 +3,7 @@
 **Description:**
 This project involves creating and documenting a Jupyter notebook titled `DataScienceEcosystem.ipynb`. The notebook presents the tools, languages, and libraries commonly used in data science, along with practical examples of arithmetic expressions in Python. The notebook is shared through a public repository on GitHub to enable collaboration and peer review.
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 1. Clone the repository:
